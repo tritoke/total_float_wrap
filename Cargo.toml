@@ -1,0 +1,10 @@
+[package]
+name = "total_float_wrap"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Floating point wrapper implementing Eq and Hash safely."
+repository = "https://github.com/tritoke/total_float_wrap"
+readme = "README.md"
+keywords = ["total", "float", "comparison", "hash"]
+categories = ["no-std", "rust-patterns"]
