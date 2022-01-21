@@ -1,6 +1,7 @@
 # total_float_wrap
 
 A wrapper around Rust's floating point types which provides a total ordering and hashing which allows it to be used in data structures such as hashmaps etc.
+The ordering of this wrapper agrees with IEEE 754 totalOrd.
 
 ## Example Code
 Below is example code using `TotalF64` as the key in a hashmap, it can be run with
