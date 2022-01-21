@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Floating point wrapper implementing Hash and Ord according to IEEE 754 totalOrd."
 repository = "https://github.com/tritoke/total_float_wrap"
+repository = "https://docs.rs/total_float_wrap/latest/total_float_wrap/"
 readme = "README.md"
 keywords = ["total", "float", "comparison", "hash"]
 categories = ["no-std", "rust-patterns"]
